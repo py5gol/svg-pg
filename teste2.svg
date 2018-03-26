@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <rect x="0" y="0" width="36" height="24" fill="#AA1199"></rect>
+    <text x="46" y="21" font-family="Verdana" font-size="24" fill="black">Test</text>
+  </g>
+
+  <g>
+    <rect x="0" y="30" width="36" height="24" fill="#AA9911"></rect>
+    <text x="46" y="51" font-family="Verdana" font-size="24" fill="black">Test 3</text>
+  </g>
+
+  <g>
+    <rect x="0" y="60" width="36" height="24" fill="#1199AA"></rect>
+    <text x="46" y="81" font-family="Verdana" font-size="24" fill="black">Test 2</text>
+  </g>
+</svg>
